@@ -1,6 +1,6 @@
 {
   "name": "topus009kudago",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "React Native first try",
   "author": "Sergey Topolov",
   "private": true,
@@ -25,7 +25,8 @@
   "dependencies": {
     "expo": "^23.0.4",
     "react": "16.0.0",
-    "react-native": "0.50.3"
+    "react-native": "0.50.3",
+    "react-native-vector-icons": "^4.5.0"
   },
   "repository": {
     "type": "git",

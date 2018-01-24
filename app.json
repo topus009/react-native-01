@@ -2,12 +2,13 @@
   "expo": {
     "name": "topus009kudago",
     "icon": "./logo.png",
-    "version": "2.1.0",
+    "version": "3.0.0",
     "slug": "topus009kudagotest",
     "sdkVersion": "23.0.0",
     "platforms": ["android"],
     "android": {
-      "package": "com.topus009.topus009kudago"
+      "package": "com.topus009.topus009kudago",
+      "versionCode": 3
     }
    }
 }
