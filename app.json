@@ -1,14 +1,17 @@
 {
   "expo": {
-    "name": "topus009kudago",
+    "name": "topus009kudago2",
     "icon": "./logo.png",
-    "version": "3.0.0",
-    "slug": "topus009kudagotest",
+    "version": "2.0.0",
+    "slug": "topus009kudago2",
     "sdkVersion": "23.0.0",
     "platforms": ["android"],
     "android": {
-      "package": "com.topus009.topus009kudago",
-      "versionCode": 3
+      "package": "com.topus009.topus009kudago2",
+      "versionCode": 2
+    },
+    "ios": {
+      "bundleIdentifier": "com.topus009.topus009kudago2"
     }
    }
-}
+  }
